@@ -14,7 +14,8 @@
 ## Download
 * **MATLAB**: Can be installed following the instructions <a href="https://www.mathworks.com/products/get-matlab.html?s_tid=gn_getml">on the website</a>, and your academic institution likely provides campus-wide access free of charge.
 * **MRST**: The latest public release of MRST can be downloaded <a href="https://www.sintef.no/projectweb/mrst/download/">here</a>.
-* **PREDICT**: This repository can be cloned or downloaded from <a href="https://github.com/lsalo/predict">here</a>. 
+* **PREDICT**: This repository can be cloned or downloaded from <a href="https://github.com/lsalo/predict">here</a>.
+
 
 ## Implememtation
 We show installation steps for both MRST and PREDICT.
@@ -22,3 +23,18 @@ We show installation steps for both MRST and PREDICT.
 1. Download the latest MRST release (see above).
 2. Download PREDICT (see above).
 3. Download "Cappa-Rutqvist2D-fault-perm" folder in the same parent folder of MRST and PREDICT to generate fault permeabilities.
+3. Download "Cappa-Rutqvist2D-flow-geomechanics-MRST" folder in the same parent folder of MRST and PREDICT to generate data, conduct NN training and UQ analysis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
