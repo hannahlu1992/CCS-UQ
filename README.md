@@ -8,6 +8,8 @@
   journal={arXiv preprint arXiv:2411.08039},
   year={2024}
 }
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15529986.svg)](https://doi.org/10.5281/zenodo.15529986)
 ```
 
 
